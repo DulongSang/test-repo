@@ -1,6 +1,6 @@
 # Hello World
 
 ```python
-print("Hello World")
-print("Hello Python")
+def main():
+    print("Hello World")
 ```
